@@ -1,2 +1,2 @@
-# GiPractice-SFalcon
+# GitPractice-SFalcon
 Repositorio para actividad práctica 
